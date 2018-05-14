@@ -1,0 +1,24 @@
+h1 {
+	color: blue;
+}
+
+.about, .projects, .first, .second, .third {
+	color: red;
+	height: 200px;
+	width: 200px;
+	border: 5px solid green;
+	text-align: center;
+	display: inline-block;
+}
+
+.first1, .first2, .first3 {
+	height: 400px;
+	width: 400px;
+	border: 5px solid red;
+	text-align: center;
+	display: inline-block;
+}
+
+.first {
+	background-image: url("family.png");
+}
